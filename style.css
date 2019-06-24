@@ -1,0 +1,15 @@
+body {
+  text-align: center
+}
+
+button {
+    padding:2vh;
+}
+
+.talk {
+    margin-top:50px;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
